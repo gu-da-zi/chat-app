@@ -1,4 +1,6 @@
 client/node_modules
+client/.gitignore
+serve/.gitignore
 serve/node_modules
 client/.env.local
 serve/.env
