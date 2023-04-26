@@ -30,7 +30,7 @@ npm install
 VITE_PROJECT_ID=<your-api-key>
 ```
 
-1. 在 server 文件夹中创建`.env`文件，设置您的 OpenAi Key 密钥：
+4. 在 server 文件夹中创建`.env`文件，设置您的 OpenAi Key 密钥：
 
 ```
 VITE_PROJECT_ID=<your-api-key>
